@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../Asmit"
+		},
+		{
+			"path": "../HTML CSS TUTOTRIAL"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
